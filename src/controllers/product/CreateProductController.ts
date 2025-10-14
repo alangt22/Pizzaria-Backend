@@ -36,7 +36,7 @@ class CreateProductController {
         name,
         price,
         description,
-        banner: resultFile.url,
+        banner: resultFile.secure_url,
         category_id,
       });
          return res.json(product);
