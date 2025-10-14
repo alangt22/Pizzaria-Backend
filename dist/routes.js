@@ -48,4 +48,3 @@ router.put("/order/send", isAuthenticated_1.isAuthenticated, new SendOrderContro
 router.get("/orders", isAuthenticated_1.isAuthenticated, new ListOrdersController_1.ListOrdersController().handle);
 router.get("/order/detail", isAuthenticated_1.isAuthenticated, new DetailOrderController_1.DetailOrderController().handle);
 router.put("/order/finish", isAuthenticated_1.isAuthenticated, new FinishOrderController_1.FinishOrderController().handle);
-//# sourceMappingURL=routes.js.map

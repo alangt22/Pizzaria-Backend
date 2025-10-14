@@ -20,4 +20,3 @@ function isAuthenticated(req, res, next) {
         return res.status(401).end();
     }
 }
-//# sourceMappingURL=isAuthenticated.js.map

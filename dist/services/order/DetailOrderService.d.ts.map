@@ -1,1 +1,0 @@
-{"version":3,"file":"DetailOrderService.d.ts","sourceRoot":"","sources":["../../../src/services/order/DetailOrderService.ts"],"names":[],"mappings":"AAEA,UAAU,aAAa;IACnB,QAAQ,EAAE,MAAM,CAAC;CACpB;AACD,cAAM,kBAAkB;IAEd,OAAO,CAAC,EAAE,QAAQ,EAAE,EAAE,aAAa;;;;;;;;;;;;;;;;;;;;;;;;;;;;CAc5C;AAED,OAAO,EAAE,kBAAkB,EAAE,CAAA"}
