@@ -11,7 +11,7 @@ API RESTful para sistema de gerenciamento de pizzaria com controle de pedidos, p
 - **Banco de Dados**: PostgreSQL
 - **Autenticação**: JWT (JSON Web Token)
 - **Upload de Arquivos**: Multer + Cloudinary
-- **部署**: Vercel
+- **Deploy**: Vercel
 
 ## Funcionalidades
 
